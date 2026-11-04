@@ -35,9 +35,6 @@ claude plugin install usage-limits-band --marketplace esheliko/usage-limits-band
 In the desktop app, where `/plugin` does not run: click + next to the prompt
 box, then Plugins, Add marketplace with `esheliko/usage-limits-band`, then Add plugin.
 
-The repository is private: the install works only for people who can read it
-on GitHub and whose machine already has a git credential for github.com.
-
 ### In cloud sessions
 
 Cloud sessions only see the repository they open, so turn the mod on in that
