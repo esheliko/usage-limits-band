@@ -1,0 +1,5 @@
+{
+  "name": "usage-limits-band",
+  "owner": { "name": "esheliko" },
+  "plugins": [{ "name": "usage-limits-band", "source": "./" }]
+}
